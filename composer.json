@@ -4,7 +4,7 @@
   "description": "Code Inc.'s AWS SES mailer",
   "homepage": "https://github.com/CodeIncHQ/AwsSesMailer",
   "type": "library",
-  "license": "proprietary",
+  "license": "MIT",
   "require": {
     "php": ">=7.1",
     "codeinc/mailer": "^2.0",
